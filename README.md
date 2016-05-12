@@ -1,4 +1,5 @@
 # go-diags
+![Example](https://github.com/Djent-/go-diags/blob/master/diags.png)
 
 # install
 go get github.com/nsf/termbox-go
